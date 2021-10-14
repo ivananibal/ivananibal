@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivananibal
-- 👀 I’m interested in Dart
+- 👀 I’m interested in Front & Back
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on Mobile dev & webApp
 - 📫 How to reach me ivancarlosanibal@gmail.com
